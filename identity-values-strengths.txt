@@ -38,3 +38,56 @@ A lot of my strengths detailed above have definietly helped me in my previous ca
 I feel some strengths already align to that of how a programmer should think / work so the key will be to lean on these strengths as a foundation and remain open to discovery of areas i will need to grow in order to be a successful programmer.
 One key area i want to grow in is my inability (at times) to make timely decisions. Sometimes i overthink and send my mind down rabbit-holes. I put some if it to my previous career as precision and safety were at the core of our work, any distortion in these areas could have resulted in loss of life.
 I want to keep that same mindset, but instead refine it. Because one danger over overthinking is getting stuck - remaining stuck.
+
+###ESSAY - My Learning Plan
+
+Faith, Family and Service. These are the core values i hold close to me that guide my decisions, interactions and how i want to be as a person. 
+I always strive to model these values in any environment i enter. I reflect alot over these values, and use a bible scripture as a daily reminder to 
+always model them, especially when i "lose my way". This scripture reads: "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord 
+your God will be with you whereyou go." - Joshua 1:9. My faith is my foundation. It reminds me that i am never walking alone and gives me the strength and guidance to face whatever lies ahead.
+My family is my why. They give meaning to the person i want to be and inspire me to be better each day.
+My service is my contribution. I want to use what i have learned, my experiences and my abilities to serve others.
+This verse captures what these values mean to me and how i can shape my interactions to be positive, genuine and with a face of grace.
+I also have this scripture tatto'd on my chest, as a constant reminder or re-aligner.
+
+Understanding that not all environemnts would align with what i feel and believe, the only ethical consideration that would matter to me in a Tech environment
+is to allow me to bring my "full self" to work - meaning, what i hold dear and true to my heart is accepted. Over time, i have learned to do the same
+and receive people / colleagues as they are which i believe is the essence of an unshakeable team foundation because you allow yourself to immerse
+into the work environment to create positive influence and be held accountable when you don't.
+
+My current work stategies involve a lot of self / co -reflection to enhance my ability to self-regulate. I believe i work optimally when I am in a state
+of peace. I like to use the analogy of a hot-air baloon when it comes to learning, in that i feel our minds are like hot-air baloons. 
+In order for a hot-air baloon to work best, it needs to be open. Going into a bit more detail, hot-air baloons need to be ironed / flattened-out 
+in order for them to create the most surface area to be filled. To create optimal learning, our minds need to be clear and open to receive 
+as much learning as it can. 
+
+I have a preference of learning through discussion and application but am also confident to learn other ways (reading, watching etc.) because i can leanon my confidence to seek guidance and support. 
+I will admit, i have already experienced competency whiplash - which gave me the wake-up call i needed to rebuild confidence in seeking help and support and i have
+always believed the best way to seek help is just to ask. I'm a firm believer in the classic phrase "if you don't ask, you won't know!"
+
+To stay focussed, i ensure i take breaks so that outside noise and excessive time doesn't take away my attention-span. I am a firm believer that traditional
+educators have also mistaken the biggest learning barrier (retention) and i actually believe the biggest barrier is instead, attention. So i have strategies in place that 
+help me maintain my attention, however, like any other human, attention spans have time limits. One example i have to enhance my attention span (and also help me in times of frustration) is inote down whatever has crept in to my mind / what has frustrated me,
+in my journal and i always ensure i come back to those thoughts when i have a break. This ensures i don't dismiss those thoughts / feelings but i acknowledge themand allocate more applicable times to 'go through the motions'.
+
+During foundations I have been able to create balance with my study / work and my other duties as a father. I allocate specific times where i need to put on the different hats. 
+I made a pact to myself to always find time in the day for me, where i can focus on self-reflection and i do this through the gym. I have also started
+I also meditate and pray and use times like cold-plunges / sauna to practice this aswell. These always refill my tank!
+
+At the moment, my only big goals for Dev Academy are to 1. Successfully complete the course and 2. Learn as much as i can.
+Each week, i want to create SMART mini-goals for each sprint which can keep me accountable and on-track. I have used SMART goals a lot in my work and have had great success with them (which highlights 
+a strength i will bring to my learning.) Another strength i will bring is my openness to learn. Allowing my mind to be filled up with as much "hot-air" 
+as possible!
+
+I can anticipate many challenges, because this is all very new learning. SOme examples will be 'tech-jargon', processes and becoming un-stuck in a coding problem. 
+What i won't do is let these barriers diminish my enthusiasm, because i wan't to be here and i want to create success in this course - and in this industry!
+The biggest challenge i can forsee though, is work-life balance. As a solo Dad with limited support, i can see how demanding this course will eventually get and i don't want itto take-away from the primary dutiesi have as a Father, but i also 
+don't want this to impact my learning, because my kids are my why. This is for them, so that i can model the attitudes and behaviours one needs to musterin order to chase their dreams.
+I want to be successful in this course so i can create the lifestyle my kids need - flexibility, working remotely, working abroad etc. This is what success will look like for me!
+
+Here's to this new adventure, may it be filled with learning, connection and (eventually) success. I am asking for accountability and affirmation - because this is all new
+for me, i don't know what right / wrong looks like (in terms of practices and processes) but what i lack in technical knowledge i make up for in leadership,
+a willingness to learn and attitude!
+
+- Dave Lepou
+
