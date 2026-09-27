@@ -1,0 +1,61 @@
+#ESSAY - My Learning Plan - Part 2
+
+When I think about my long-term career pathway, my goal isn't simply to complete Dev Academy and get a job as a developer. I want to use the skills I gain throughout this course to build 
+a career that gives me the ability to contribute, continue learning and eventually create a life that gives my family more freedom. My immediate goal is simple: successfully complete this 
+course and see it all the way through, through both the sunshine and the storms.
+
+My next step after Dev Academy is to apply for a Junior Developer role within the New Zealand Defence Force. I was approached by a friend who manages different teams of web developers 
+and software engineers and he encouraged me to complete the course and consider applying for a role. I see this as an opportunity to use the environment I already understand while 
+building an entirely new set of technical skills. I want to use that experience to build my confidence, develop a portfolio and learn how to contribute positively within a tech team.
+
+In the longer term, my goal is to work for a company where I can work remotely while also having the flexibility to freelance in my spare time. Eventually, I want to move my family to 
+Samoa and continue building a career that allows me to work from there. Success for me isn't just about having a job title or earning a certain amount of money. It looks more like 
+becoming the best developer I can be, continuing to grow and creating a career that gives me the flexibility to provide for my family while remaining connected to where I come from.
+
+I have also started to imagine myself eventually becoming a facilitator or mentor within the development space. I don't know exactly why that idea has stuck with me, especially 
+considering how much technical knowledge I still need to develop but I think my existing leadership experience could give me something valuable to contribute. Technical knowledge is 
+something I can build but the ability to lead, support and develop people is something I have already spent years developing. In the future, I would like to combine those two areas.
+
+The impact I want to make is to become a well-rounded team member who is values-driven, team- and task-focused. I want to be someone who can contribute technically while also 
+understanding the people around me and the environment I am working in.
+
+When I think about what strengths I am bringing into Bootcamp, one of the biggest is my leadership development experience. I have recently walked away from working within one of the 
+country's elite teams where I was responsible for leading others and more importantly, supporting the leadership development of people within teams. That experience has taught 
+me how important communication, accountability and supporting others can be.
+
+Another strength I bring is resilience. I have spent a lot of time operating in high-pressure environments, and that experience has taught me how to maintain confidence and respect during 
+difficult situations. I know that Bootcamp will have moments where I become stuck and frustrated because I don't understand something. I don't expect those moments to disappear. 
+Instead, I expect my resilience to help me work through them.
+
+At the same time, I am aware that my strengths don't make me immune to challenges. My biggest limitation during Bootcamp will probably be balancing the demands of the course with my 
+responsibilities outside of it. I know that it isn't enough to simply manage my workload for one week. I need to find a sustainable balance that allows me to meet my responsibilities 
+while still giving the course the energy and attention it deserves.
+
+There will also be non-technical challenges. Staying on top of the material, working in groups, speaking ("feeling dumb")in front of others, staying focused for nine weeks and managing 
+my energy are all things I will need to pay attention to. These challenges aren't necessarily about whether I can write code. They are about whether I can manage myself effectively 
+enough to keep learning when things become hard.
+
+Because of this, there are still human skills I want to develop further at Dev Academy. Even though I already have strengths in leadership, communication and working with people, I don't 
+believe there is ever a point where those skills are finished. I want to continue developing my resilience, empathy and self-awareness, particularly in a completely new environment. I want 
+to become better at understanding myself while also becoming better at understanding others i work with.
+
+I also have expectations of the Bootcamp team. These expectations may not always match exactly with the way the team operates, but I think it is important to be clear about what I need. 
+I expect honesty and transparency. If I am doing something wrong, I want to be told and supported towards a resolution. I expect both positive and constructive feedback and I want to 
+trust that the feedback I receive is coming from a place of compassion and aroha.
+
+In return, I need to take responsibility for my own learning. If something isn't clicking or doesn't make sense I need to communicate that rather than sitting quietly and hoping it will 
+eventually make sense. I want to contribute positively, speak up when something isn't working for me and bring my best every day.
+
+One analogy I have been thinking about is a garden. Imagine a fly and a bee entering the exact same garden. The fly is drawn toward (please excuse my language) 'poo' and will 'b-line' 
+straight for that chunk of 'poo'. However the bee is drawn toward the flowers. They are in exactly the same environment, but they interact with it completely differently. The bee moves from flower 
+to flower and, as it does it pollinates the flowers and contributes to the environment around it. I wanna be the bee.
+
+I want to enter my learning and working environments looking for opportunities rather than problems. I want to be positive, show empathy and compassion, find ways to understand the 
+people around me and contribute wherever I can. I don't want to be someone who simply moves through an environment looking for what is wrong with it. I want to add value to the garden.
+
+That is ultimately what I want my learning plan to lead towards. I know there will be sunshine and storms throughout this course, and I know I will probably get stuck, become frustrated 
+and question myself at times. But I also know what strengths I am bringing with me, what areas I need to continue developing and what kind of person I want to be when I reach the other 
+side.
+
+I don't just want to leave Dev Academy knowing how to code. I want to leave knowing that I contributed to the people around me, continued to grow through the difficult parts and became a 
+better version of myself along the way.
